@@ -1,0 +1,296 @@
+[{
+  "_id": {
+    "$oid": "61cc167a57a0b1781e9a0ff9"
+  },
+  "name": "Robin"
+},{
+  "_id": {
+    "$oid": "6274b952e696a4eff31e49eb"
+  },
+  "name": "Fk.Pynappel"
+},{
+  "_id": {
+    "$oid": "62c3ea821aabb9ce60823bb6"
+  },
+  "name": "Sobe"
+},{
+  "_id": {
+    "$oid": "62c3eaae1aabb9ce60823bba"
+  },
+  "name": "Etika"
+},{
+  "_id": {
+    "$oid": "61aac7f29955ef6272942997"
+  },
+  "name": "Dilvin"
+},{
+  "_id": {
+    "$oid": "6215e2fa3ab8eda7e7ccad41"
+  },
+  "name": "Mizalle"
+},{
+  "_id": {
+    "$oid": "62c3ea921aabb9ce60823bb7"
+  },
+  "name": "Ello"
+},{
+  "_id": {
+    "$oid": "62c3eaa51aabb9ce60823bb9"
+  },
+  "name": "Fame"
+},{
+  "_id": {
+    "$oid": "63652a8bb07f0fb3e952f634"
+  },
+  "name": "Ilia"
+},{
+  "_id": {
+    "$oid": "63721e7df08d2c193b87c343"
+  },
+  "name": "Le Pole"
+},{
+  "_id": {
+    "$oid": "63847ae584ca6d445c96dc94"
+  },
+  "name": "Qalya"
+},{
+  "_id": {
+    "$oid": "6388889984ca6d445c96dcc1"
+  },
+  "name": "Simone"
+},{
+  "_id": {
+    "$oid": "6396f636545a697fc2911254"
+  },
+  "name": "XLove"
+},{
+  "_id": {
+    "$oid": "639ca4384620f5433a4351c1"
+  },
+  "name": "Black Fashion"
+},{
+  "_id": {
+    "$oid": "63eb4bd280b697dd21c9c901"
+  },
+  "name": "Ezgi Nisantasi"
+},{
+  "_id": {
+    "$oid": "619f11e9f60f82eb3e3edc6c"
+  },
+  "name": "Setre"
+},{
+  "_id": {
+    "$oid": "6246ecd8c5dca317d28a48d5"
+  },
+  "name": "Adrom"
+},{
+  "_id": {
+    "$oid": "61b9ca05121c51cd95ead70d"
+  },
+  "name": "Xint"
+},{
+  "_id": {
+    "$oid": "6210abfc464021cebadd66d0"
+  },
+  "name": "Ayshan Moda"
+},{
+  "_id": {
+    "$oid": "61c0434a6e4636ab4ab6443c"
+  },
+  "name": "Adze"
+},{
+  "_id": {
+    "$oid": "61f47fbcec595d35872f51d5"
+  },
+  "name": "Evable"
+},{
+  "_id": {
+    "$oid": "63178565aa9647ec3e016481"
+  },
+  "name": "Vaggon"
+},{
+  "_id": {
+    "$oid": "631efe7eaa9647ec3e0164ee"
+  },
+  "name": "Qustyle"
+},{
+  "_id": {
+    "$oid": "632c98d921ac465b707e8d62"
+  },
+  "name": "Helios"
+},{
+  "_id": {
+    "$oid": "633e88f9d2bf9eff9542dedd"
+  },
+  "name": "Touche Prive"
+},{
+  "_id": {
+    "$oid": "637f5f3a84ca6d445c96dba6"
+  },
+  "name": "Affect"
+},{
+  "_id": {
+    "$oid": "63847e3e84ca6d445c96dc95"
+  },
+  "name": "Miyalon"
+},{
+  "_id": {
+    "$oid": "6386075584ca6d445c96dca0"
+  },
+  "name": "Ziva Tekstil"
+},{
+  "_id": {
+    "$oid": "6391daedff7f92a0c1661bc0"
+  },
+  "name": "Arya Boutique"
+},{
+  "_id": {
+    "$oid": "63998e184620f5433a435193"
+  },
+  "name": "Kuxo"
+},{
+  "_id": {
+    "$oid": "63a0734d4620f5433a4351d3"
+  },
+  "name": "Helin Avşar"
+},{
+  "_id": {
+    "$oid": "61c60f3d6da16d51440a3cc2"
+  },
+  "name": "Zenne"
+},{
+  "_id": {
+    "$oid": "62e2ca0358734118ffeb63be"
+  },
+  "name": "Qualaas"
+},{
+  "_id": {
+    "$oid": "6311fd76aa9647ec3e01644e"
+  },
+  "name": "Mare Style"
+},{
+  "_id": {
+    "$oid": "61eb60974fa40ab28754affc"
+  },
+  "name": "Allday"
+},{
+  "_id": {
+    "$oid": "62082bec262106b4b57ecf84"
+  },
+  "name": "Bigdart"
+},{
+  "_id": {
+    "$oid": "62c3ea9c1aabb9ce60823bb8"
+  },
+  "name": "Elisa"
+},{
+  "_id": {
+    "$oid": "62fa2cb479dfd1ea7f4edff3"
+  },
+  "name": "Playmax"
+},{
+  "_id": {
+    "$oid": "6376433419ff6349e0634d1c"
+  },
+  "name": "Mode Roy"
+},{
+  "_id": {
+    "$oid": "637e148f84ca6d445c96db83"
+  },
+  "name": "Roggos Socks"
+},{
+  "_id": {
+    "$oid": "6388817e84ca6d445c96dcbe"
+  },
+  "name": "Tuba Butik"
+},{
+  "_id": {
+    "$oid": "639092caff7f92a0c1661bae"
+  },
+  "name": "Miena"
+},{
+  "_id": {
+    "$oid": "6396f6d2545a697fc2911255"
+  },
+  "name": "Twinsy Butik"
+},{
+  "_id": {
+    "$oid": "63985fb14620f5433a435178"
+  },
+  "name": "Hulya Keser"
+},{
+  "_id": {
+    "$oid": "63aac01ba4d990840b3b388d"
+  },
+  "name": "MyBee"
+},{
+  "_id": {
+    "$oid": "63bc96470e0007dc7d50beeb"
+  },
+  "name": "Offo"
+},{
+  "_id": {
+    "$oid": "63c814f714320745ba69bb14"
+  },
+  "name": "Janes"
+},{
+  "_id": {
+    "$oid": "63d795f9dfda08b97532d5be"
+  },
+  "name": "Burden Ipek"
+},{
+  "_id": {
+    "$oid": "63e393d280b697dd21c9c8eb"
+  },
+  "name": "Slash"
+},{
+  "_id": {
+    "$oid": "6225c867bff9d1635253a3e0"
+  },
+  "name": "Tommy Life"
+},{
+  "_id": {
+    "$oid": "630e2696aa9647ec3e0163f3"
+  },
+  "name": "Kaktus Moda"
+},{
+  "_id": {
+    "$oid": "6215e2e43ab8eda7e7ccad40"
+  },
+  "name": "Ecardin"
+},{
+  "_id": {
+    "$oid": "62acfb2cbed400eb236251dc"
+  },
+  "name": "Ebijuteri"
+},{
+  "_id": {
+    "$oid": "62c3eac71aabb9ce60823bbb"
+  },
+  "name": "Hot Fashion"
+},{
+  "_id": {
+    "$oid": "63073cb179dfd1ea7f4ee31e"
+  },
+  "name": "Glowigo"
+},{
+  "_id": {
+    "$oid": "6311e31aaa9647ec3e01644d"
+  },
+  "name": "TOPTOP"
+},{
+  "_id": {
+    "$oid": "6336ff16d2bf9eff9542de83"
+  },
+  "name": "Perry"
+},{
+  "_id": {
+    "$oid": "638604f084ca6d445c96dc9f"
+  },
+  "name": "Otantik Giyim"
+},{
+  "_id": {
+    "$oid": "63d11c86dfda08b97532d577"
+  },
+  "name": "Cream Rouge"
+}]
